@@ -1,0 +1,10 @@
+{"file":"gfont.png","frames":{
+"用":{"x":30,"y":95,"w":22,"h":22,"offX":7,"offY":16,"sourceW":29,"sourceH":38},
+"户":{"x":38,"y":70,"w":22,"h":23,"offX":5,"offY":14,"sourceW":27,"sourceH":37},
+"名":{"x":41,"y":1,"w":21,"h":26,"offX":7,"offY":12,"sourceW":28,"sourceH":38},
+"：":{"x":54,"y":95,"w":6,"h":14,"offX":15,"offY":18,"sourceW":21,"sourceH":32},
+"密":{"x":38,"y":42,"w":25,"h":26,"offX":6,"offY":13,"sourceW":31,"sourceH":39},
+"码":{"x":1,"y":82,"w":27,"h":22,"offX":4,"offY":16,"sourceW":31,"sourceH":38},
+":":{"x":1,"y":106,"w":6,"h":14,"offX":2,"offY":22,"sourceW":8,"sourceH":36},
+"登":{"x":1,"y":1,"w":38,"h":39,"offX":7,"offY":19,"sourceW":45,"sourceH":58},
+"录":{"x":1,"y":42,"w":35,"h":38,"offX":9,"offY":20,"sourceW":44,"sourceH":58}}}

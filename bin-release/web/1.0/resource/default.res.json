@@ -1,0 +1,37 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,close_png,bg_png,gfont_fnt,button_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/close.png",
+			"type": "image",
+			"name": "close_png"
+		},
+		{
+			"url": "assets/bg.png",
+			"type": "image",
+			"name": "bg_png",
+			"scale9grid": "59,63,391,203"
+		},
+		{
+			"url": "assets/gfont.fnt",
+			"type": "font",
+			"name": "gfont_fnt"
+		},
+		{
+			"url": "assets/button.png",
+			"type": "image",
+			"name": "button_png",
+			"scale9grid": "192,243,143,132"
+		}
+	]
+}
